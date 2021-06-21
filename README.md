@@ -11,7 +11,6 @@ My Web Site:
 | I'm Good For | I Work On  |
 |:-------------------|:-------------------------:|
 | Python             | Node.js                   |
-| aoi.js/dbd.js      | Visual Basic              |
 | Html               | JavaScript                |
 | C++                | C#                        |
 ----
@@ -31,6 +30,5 @@ Web Sitem:
 | İyi Olduğum Diller | Üstünde Çalıştığım Diller |
 |:-------------------|:-------------------------:|
 | Python             | Node.js                   |
-| aoi.js/dbd.js      | Visual Basic              |
 | Html               | JavaScript                |
 | C++                | C#                        |
