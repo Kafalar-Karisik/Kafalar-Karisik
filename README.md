@@ -6,7 +6,7 @@ O zamanlar bu konuda gerçekten yetenekli olduğumu anladım. Teknoloji küçük
 Daha sonra python ile tanıştım. Hatta Watpad üzerinden Python için [kitap](https://www.wattpad.com/story/257941761-sadece-python) yazıyorum. 
 Yardım veya destek İçin Mesaj atmaktan çekinmeyin.
 Web Sitem:
-[Kafalar-Karisik.github.io](Kafalar-Karisik.github.io)
+[Kafalar-Karisik.github.io](https://kafalar-karisik.github.io)
 ----
 | İyi Olduğum Diller | Üstünde Çalıştığım Diller |
 |:-------------------|:-------------------------:|
