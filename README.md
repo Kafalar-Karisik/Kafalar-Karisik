@@ -1,5 +1,7 @@
 ### Developing !!!
 
+![](https://komarev.com/ghpvc/?username=kafalar-karisik)
+
 [![My Skills](https://skillicons.dev/icons?i=arduino,python,html,bash,discord,fastapi,md,vscode)](https://skillicons.dev)
 
 
